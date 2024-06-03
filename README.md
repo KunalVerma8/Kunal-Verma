@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *Tax management system and E-commerce application.*
 
-- 🌱 I’m currently learning *Flutter and data structures.*
+- 🌱 I’m currently learning *Flutter State management.*
 
 - 📫 How to reach me *kunalverma8055@gmail.com*
 
